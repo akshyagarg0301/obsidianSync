@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="fF9nW9f1luxKkDbwWCic">
+    <mxGraphModel dx="4073" dy="2650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Vehicle" vertex="1">
+          <mxGeometry height="60" width="120" x="320" y="160" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="2 wheeler" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="4 wheeler" vertex="1">
+          <mxGeometry height="60" width="120" x="490" y="290" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-5" edge="1" parent="1" source="tie1CYI-eGFmHHyR0DMk-2" style="endArrow=classic;html=1;rounded=0;exitX=0.575;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.408;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="tie1CYI-eGFmHHyR0DMk-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-6" edge="1" parent="1" source="tie1CYI-eGFmHHyR0DMk-3" style="endArrow=classic;html=1;rounded=0;exitX=0.433;exitY=-0.05;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.625;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" target="tie1CYI-eGFmHHyR0DMk-1" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="390" y="440" as="sourcePoint" />
+            <mxPoint x="440" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-7" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="is-a" vertex="1">
+          <mxGeometry height="30" width="60" x="270" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-8" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="is-a" vertex="1">
+          <mxGeometry height="30" width="60" x="450" y="230" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-9" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Library" vertex="1">
+          <mxGeometry height="60" width="120" x="350" y="520" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-12" edge="1" parent="1" source="tie1CYI-eGFmHHyR0DMk-13" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;exitX=0.467;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" target="tie1CYI-eGFmHHyR0DMk-9" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="660" as="sourcePoint" />
+            <mxPoint x="380" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-13" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Books" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="650" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="House" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="800" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-15" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="Rooms" vertex="1">
+          <mxGeometry height="60" width="120" x="354" y="960" as="geometry" />
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-22" edge="1" parent="1" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1570" y="330" as="sourcePoint" />
+            <mxPoint x="1730" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-23" edge="1" parent="1" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="1570" y="330" as="sourcePoint" />
+            <mxPoint x="1730" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="tie1CYI-eGFmHHyR0DMk-24" edge="1" parent="1" source="tie1CYI-eGFmHHyR0DMk-15" style="endArrow=diamondThin;endFill=1;endSize=24;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="tie1CYI-eGFmHHyR0DMk-14" value="">
+          <mxGeometry relative="1" width="160" as="geometry">
+            <mxPoint x="950" y="750" as="sourcePoint" />
+            <mxPoint x="1110" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
