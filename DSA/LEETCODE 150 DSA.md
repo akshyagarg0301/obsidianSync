@@ -5,3 +5,13 @@ https://leetcode.com/problems/zigzag-conversion/submissions/2025287272/?envType=
 https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/text-justification/submissions/2025320351/?envType=study-plan-v2&envId=top-interview-150 ✅ (revise)
 https://leetcode.com/problems/create-binary-tree-from-descriptions/submissions/656449275/?envType=daily-question&envId=2026-06-07 (daily leetcode challenge)
+
+8 june 2026
+https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150 (✅)
+https://leetcode.com/problems/is-subsequence/submissions/2025824842/?envType=study-plan-v2&envId=top-interview-150 (✅)
+https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/submissions/2025826762/?envType=study-plan-v2&envId=top-interview-150 (✅)
+https://leetcode.com/problems/container-with-most-water/submissions/2025836060/?envType=study-plan-v2&envId=top-interview-150 (✅)
+https://leetcode.com/problems/3sum/submissions/?envType=study-plan-v2&envId=top-interview-150 (✅)
+https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2025867209/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/2025868309/?envType=daily-question&envId=2026-06-08 ✅
+https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2025876166/?envType=study-plan-v2&envId=top-interview-150 (✅) revise
