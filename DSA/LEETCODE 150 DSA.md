@@ -15,3 +15,8 @@ https://leetcode.com/problems/3sum/submissions/?envType=study-plan-v2&envId=top-
 https://leetcode.com/problems/minimum-size-subarray-sum/submissions/2025867209/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/partition-array-according-to-given-pivot/submissions/2025868309/?envType=daily-question&envId=2026-06-08 ✅
 https://leetcode.com/problems/longest-substring-without-repeating-characters/submissions/2025876166/?envType=study-plan-v2&envId=top-interview-150 (✅) revise
+
+9 june 2026
+https://leetcode.com/problems/maximum-total-subarray-value-i/submissions/2026886541/?envType=daily-question&envId=2026-06-09 (✅) daily leetcode challenge
+https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2026902467/?envType=study-plan-v2&envId=top-interview-150 ✅ revise
+https://leetcode.com/problems/minimum-window-substring/submissions/2026930546/?envType=study-plan-v2&envId=top-interview-150 ✅
