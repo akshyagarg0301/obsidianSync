@@ -20,3 +20,4 @@ https://leetcode.com/problems/longest-substring-without-repeating-characters/sub
 https://leetcode.com/problems/maximum-total-subarray-value-i/submissions/2026886541/?envType=daily-question&envId=2026-06-09 (✅) daily leetcode challenge
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2026902467/?envType=study-plan-v2&envId=top-interview-150 ✅ revise
 https://leetcode.com/problems/minimum-window-substring/submissions/2026930546/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/ransom-note/submissions/2026933011/?envType=study-plan-v2&envId=top-interview-150 ✅
