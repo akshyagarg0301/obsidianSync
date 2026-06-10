@@ -64,6 +64,9 @@ Coffee coffee = new WhippedCream(
                   );
 ```
 
+If we go to create new coffee, we will have to create new class for each combination of milk, sugar, and whipped cream. Decorator pattern helps us to avoid this.
+So yes, we still create classes, but we create building blocks, not every possible final product. With decorator, you create one class per feature.
+
 
 ## Behavioral pattern: Strategy
 
