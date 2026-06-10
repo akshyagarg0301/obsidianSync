@@ -21,3 +21,11 @@ https://leetcode.com/problems/maximum-total-subarray-value-i/submissions/2026886
 https://leetcode.com/problems/substring-with-concatenation-of-all-words/submissions/2026902467/?envType=study-plan-v2&envId=top-interview-150 ✅ revise
 https://leetcode.com/problems/minimum-window-substring/submissions/2026930546/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/ransom-note/submissions/2026933011/?envType=study-plan-v2&envId=top-interview-150 ✅
+
+10 June 2026
+https://leetcode.com/problems/valid-sudoku/description/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/spiral-matrix/submissions/2028152631/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/rotate-image/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/set-matrix-zeroes/submissions/1832461031/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/game-of-life/submissions/2028188748/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
+https://leetcode.com/problems/isomorphic-strings/?envType=study-plan-v2&envId=top-interview-150 ✅

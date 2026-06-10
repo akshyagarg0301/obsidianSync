@@ -1,0 +1,1 @@
+https://leetcode.com/problems/maximum-total-subarray-value-ii/solutions/8323078/beats-100-easy-understanding-approch-cle-hfue/?envType=daily-question&envId=2026-06-10 gave half an hour evalutaing other approachesd do not know about sparse table)
