@@ -29,3 +29,12 @@ https://leetcode.com/problems/rotate-image/?envType=study-plan-v2&envId=top-inte
 https://leetcode.com/problems/set-matrix-zeroes/submissions/1832461031/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/game-of-life/submissions/2028188748/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
 https://leetcode.com/problems/isomorphic-strings/?envType=study-plan-v2&envId=top-interview-150 ✅
+
+11 June 2026
+https://leetcode.com/problems/word-pattern/submissions/2029287995/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/valid-anagram/submissions/2029293065/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/group-anagrams/submissions/2029613021/?envType=study-plan-v2&envId=top-interview-150
+https://leetcode.com/problems/two-sum/submissions/2029614734/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/happy-number/submissions/539865486/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150 ✅ (revise for optimized approach)
+https://leetcode.com/problems/longest-consecutive-sequence/submissions/2029654100/?envType=study-plan-v2&envId=top-interview-150 ✅
