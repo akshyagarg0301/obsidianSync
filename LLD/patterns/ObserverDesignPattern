@@ -1,0 +1,23 @@
+It's a design pattern where an object maintains a list of dependents (called observers).
+and automatically notifies dependents/observers when there is a change in state.
+
+Example:- Weather Station - where multiple devices receive updates from a weather station.
+Social Media feeds - when we follow someone on instagram, we become observer of their profile. When they post new content, we are automatically notified.
+
+There are 2 models:-
+1. Push Model-  Observable pushes the data it want observer to receive
+2. Pull Model- Observer holds observable object reference and when it got to know something updated, it pulls the data whatever it needs using Observable object.
+
+Subject / Observable
+- stores observers
+- lets observers subscribe/unsubscribe
+- notifies observers when something changes
+
+Observer
+- defines an update method
+- reacts when notified
+
+Push vs Pull Model
+Model	Meaning	Advantage	Disadvantage
+Push	Subject sends data to observer	Simple and direct	May send unnecessary data
+Pull	Subject sends reference, observer fetches data	Flexible	Observer becomes dependent on subject interface

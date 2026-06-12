@@ -1,0 +1,8 @@
+package lowleveldesign.patterns.strategy.solution;
+
+public class UpiPaymentStrategy implements PaymentStrategy {
+    @Override
+    public void pay(double amount) {
+        System.out.println("Paying " + amount + " using UPI");
+    }
+}
