@@ -38,3 +38,9 @@ https://leetcode.com/problems/two-sum/submissions/2029614734/?envType=study-plan
 https://leetcode.com/problems/happy-number/submissions/539865486/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/contains-duplicate-ii/description/?envType=study-plan-v2&envId=top-interview-150 ✅ (revise for optimized approach)
 https://leetcode.com/problems/longest-consecutive-sequence/submissions/2029654100/?envType=study-plan-v2&envId=top-interview-150 ✅
+
+12 June 2026
+https://leetcode.com/problems/summary-ranges/submissions/2030217597/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/merge-intervals/submissions/2030221106/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/insert-interval/submissions/2030232469/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/2030238205/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
