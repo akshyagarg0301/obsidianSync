@@ -44,3 +44,10 @@ https://leetcode.com/problems/summary-ranges/submissions/2030217597/?envType=stu
 https://leetcode.com/problems/merge-intervals/submissions/2030221106/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/insert-interval/submissions/2030232469/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/submissions/2030238205/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
+
+13 June 2026
+https://leetcode.com/problems/valid-parentheses/submissions/2031238869/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/simplify-path/submissions/2031245619/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/min-stack/submissions/2031250587/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
+https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2031252345/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/basic-calculator/submissions/2031260022/?envType=study-plan-v2&envId=top-interview-150 ✅ (revise)
