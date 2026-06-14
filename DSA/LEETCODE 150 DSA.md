@@ -51,3 +51,10 @@ https://leetcode.com/problems/simplify-path/submissions/2031245619/?envType=stud
 https://leetcode.com/problems/min-stack/submissions/2031250587/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
 https://leetcode.com/problems/evaluate-reverse-polish-notation/submissions/2031252345/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/basic-calculator/submissions/2031260022/?envType=study-plan-v2&envId=top-interview-150 ✅ (revise)
+
+14 June 2026
+https://leetcode.com/problems/linked-list-cycle/submissions/2032402155/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2032410441/?envType=daily-question&envId=2026-06-14 ✅
+https://leetcode.com/problems/frequency-balance-subarray/ ✅
+https://leetcode.com/problems/maximize-sum-of-device-ratings/ ✅
+https://leetcode.com/problems/check-good-integer/description/ ✅
