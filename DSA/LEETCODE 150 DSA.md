@@ -58,3 +58,15 @@ https://leetcode.com/problems/maximum-twin-sum-of-a-linked-list/submissions/2032
 https://leetcode.com/problems/frequency-balance-subarray/ ✅
 https://leetcode.com/problems/maximize-sum-of-device-ratings/ ✅
 https://leetcode.com/problems/check-good-integer/description/ ✅
+https://leetcode.com/problems/add-two-numbers/submissions/2032845356/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/merge-two-sorted-lists/submissions/2032861181/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/copy-list-with-random-pointer/submissions/2032882455/?envType=study-plan-v2&envId=top-interview-150 ✅
+
+15 June 2026
+https://leetcode.com/problems/reverse-linked-list-ii/submissions/2033283526/?envType=study-plan-v2&envId=top-interview-150 ✅ (revise)
+https://leetcode.com/problems/remove-nth-node-from-end-of-list/submissions/2033285519/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/submissions/2033295923/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submissions/2033297096/?envType=daily-question&envId=2026-06-15 ✅
+https://leetcode.com/problems/rotate-list/submissions/2033297516/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/partition-list/submissions/2033302205/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/reverse-linked-list/submissions/2033302391/?envType=study-plan-v2&envId=top-interview-150 ✅
