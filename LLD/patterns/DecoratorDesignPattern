@@ -1,0 +1,45 @@
+# Decorator Design Pattern Notes
+
+## One-Line Definition
+
+The Decorator pattern lets you add new behavior to an object dynamically by wrapping it in another object that follows the same interface.
+
+## Key Idea
+
+Decorator = wrapper + same interface + extra behavior
+
+Instead of creating many subclasses, we wrap objects:
+
+```java
+Notifier notifier = new SmsNotifier(
+    new SlackNotifier(
+        new EmailNotifier()
+    )
+);
+```
+
+Each decorator adds one responsibility.
+
+## When to Use
+
+Use Decorator when:
+
+* You want to add behavior without modifying existing classes.
+* You want behavior to be added at runtime.
+* You want to avoid subclass explosion.
+* You want flexible combinations of features.
+
+## Common Examples
+
+* Java I/O streams
+* Logging
+* Caching
+* Security checks
+* Validation
+* Compression
+* Encryption
+* Metrics collection
+
+## Interview Answer
+
+The Decorator pattern is a structural pattern that allows behavior to be added to an object dynamically by wrapping it with another object that implements the same interface. It is useful when we want flexible combinations of behavior without modifying existing classes or creating many subclasses. Java I/O streams are a common example.
