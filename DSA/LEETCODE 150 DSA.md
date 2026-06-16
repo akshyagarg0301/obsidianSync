@@ -70,3 +70,12 @@ https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/submission
 https://leetcode.com/problems/rotate-list/submissions/2033297516/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/partition-list/submissions/2033302205/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/reverse-linked-list/submissions/2033302391/?envType=study-plan-v2&envId=top-interview-150 ✅
+
+16 June 2026
+https://leetcode.com/problems/process-string-with-special-operations-i/?envType=daily-question&envId=2026-06-16 ✅
+https://leetcode.com/problems/reverse-nodes-in-k-group/submissions/2034482460/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
+https://leetcode.com/problems/lru-cache/submissions/2034488564/?envType=study-plan-v2&envId=top-interview-150 ✅ (revise)
+https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/2034489272/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/same-tree/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/invert-binary-tree/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/symmetric-tree/submissions/2034492295/?envType=study-plan-v2&envId=top-interview-150 ✅
