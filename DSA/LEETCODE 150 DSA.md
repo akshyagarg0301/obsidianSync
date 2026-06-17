@@ -79,3 +79,11 @@ https://leetcode.com/problems/maximum-depth-of-binary-tree/submissions/203448927
 https://leetcode.com/problems/same-tree/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/invert-binary-tree/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/symmetric-tree/submissions/2034492295/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/solutions/442065/populating-next-right-pointers-in-each-n-34a2/?envType=study-plan-v2&envId=top-interview-150 ✅
+
+17 June
+https://leetcode.com/problems/binary-tree-right-side-view/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/average-of-levels-in-binary-tree/description/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/binary-tree-level-order-traversal/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/description/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/process-string-with-special-operations-ii/submissions/2036407287/?envType=daily-question&envId=2026-06-17 ✅
