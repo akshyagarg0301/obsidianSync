@@ -89,6 +89,7 @@ https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/descripti
 https://leetcode.com/problems/process-string-with-special-operations-ii/submissions/2036407287/?envType=daily-question&envId=2026-06-17 ✅
 
 18 June
-https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2036983618/?envType=daily-question&envId=2026-06-18
-https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2036990096/?envType=study-plan-v2&envId=top-interview-150
-https://leetcode.com/problems/validate-binary-search-tree/submissions/2036992628/?envType=study-plan-v2&envId=top-interview-150
+https://leetcode.com/problems/angle-between-hands-of-a-clock/submissions/2036983618/?envType=daily-question&envId=2026-06-18 ✅
+https://leetcode.com/problems/kth-smallest-element-in-a-bst/submissions/2036990096/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/validate-binary-search-tree/submissions/2036992628/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/submissions/2037364105/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
