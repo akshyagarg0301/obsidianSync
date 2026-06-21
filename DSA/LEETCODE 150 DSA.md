@@ -105,3 +105,14 @@ https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-t
 https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/description/?envType=study-plan-v2&envId=top-interview-150 ✅
 https://leetcode.com/problems/count-complete-tree-nodes/editorial/?envType=study-plan-v2&envId=top-interview-150 ✅(revise)
 https://leetcode.com/problems/minimum-absolute-difference-in-bst/submissions/2038854159/?envType=study-plan-v2&envId=top-interview-150 ✅
+
+20 June
+https://leetcode.com/problems/maximum-building-height/submissions/2039301712/?envType=daily-question&envId=2026-06-20
+
+21 June
+https://leetcode.com/problems/valid-subarrays-with-matching-sum-digits-i/ ✅
+https://leetcode.com/problems/maximum-manhattan-distance-after-all-moves/description/ ✅
+https://leetcode.com/problems/finish-time-of-tasks-i/description/ ✅
+https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/description/ ✅
+https://leetcode.com/problems/create-grid-with-exactly-one-path/ ✅
+https://leetcode.com/problems/maximum-ice-cream-bars/description/ ✅
