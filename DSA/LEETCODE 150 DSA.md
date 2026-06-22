@@ -116,3 +116,12 @@ https://leetcode.com/problems/finish-time-of-tasks-i/description/ ✅
 https://leetcode.com/problems/minimum-lights-to-illuminate-a-road/description/ ✅
 https://leetcode.com/problems/create-grid-with-exactly-one-path/ ✅
 https://leetcode.com/problems/maximum-ice-cream-bars/description/ ✅
+
+22 June
+https://leetcode.com/problems/maximum-number-of-balloons/submissions/2041466260/?envType=daily-question&envId=2026-06-22 ✅
+https://leetcode.com/problems/number-of-islands/solutions/127691/number-of-islands-by-leetcode-5vu5/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/surrounded-regions/submissions/2041481813/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/clone-graph/submissions/2041485925/?envType=study-plan-v2&envId=top-interview-150 ✅(bfs revise)
+https://leetcode.com/problems/evaluate-division/description/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/course-schedule/submissions/2041493140/?envType=study-plan-v2&envId=top-interview-150 ✅
+https://leetcode.com/problems/course-schedule-ii/submissions/2041493589/?envType=study-plan-v2&envId=top-interview-150 ✅
